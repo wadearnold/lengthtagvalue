@@ -1,5 +1,8 @@
 # lengthtagvalue
-Go library for parsing your TLV (Tag-Length-Value) format.
+Go library for parsing your TLV (Length-Tag-Value) format.
+* Three bytes Length
+* two bytes Tag
+* length of Value 
 
 ```go
 // Simple parsing
