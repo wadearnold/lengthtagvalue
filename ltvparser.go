@@ -1,7 +1,7 @@
 package lengthtagvalue
 
-// tlvparser.go - A simple TLV (Tag-Length-Value) parser in Go
-// This package provides functionality to parse TLV encoded data streams.
+// ltvparser.go - A simple LTV (Length-Tag-Value) parser in Go
+// This package provides functionality to parse LTV encoded data streams.
 
 import (
 	"errors"
